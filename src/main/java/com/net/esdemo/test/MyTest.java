@@ -38,7 +38,7 @@ public class MyTest {
      * @throws UnknownHostException 
      * @throws JsonProcessingException 
      */  
-    @Test  
+    @Test
     public void testCreatIndex() throws UnknownHostException, JsonProcessingException{
     	
         List<Goods> goodsList = new ArrayList<Goods>();  
